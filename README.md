@@ -7,6 +7,8 @@ This simplifies all 20 wires into one micro fit cable from molex.
 
 Support- up to 70W heaters. 1 Hotend, 2 part cooling fans, 1 heater, support for ender machines. Works with any printer with proper mounts.
 
+Mounts can be found here https://www.printables.com/model/212304-wire2hotend
+
 
 
 
