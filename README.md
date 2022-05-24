@@ -9,8 +9,15 @@ Support- up to 70W heaters. 1 Hotend, 2 part cooling fans, 1 heater, support for
 
 Mounts can be found here https://www.printables.com/model/212304-wire2hotend
 
+![bronkout4040_2022-May-23_08-30-44PM-000_CustomizedView21246068295_png](https://user-images.githubusercontent.com/49598984/170097979-bfdd3eb5-4b0b-45da-bae8-15bfc62ee4ce.png)
+_4040 Mount_
 
+![bronkout_2022-May-23_08-30-32PM-000_CustomizedView30652915683_png](https://user-images.githubusercontent.com/49598984/170097994-a7f00456-c9b1-45a1-b62c-324bcd6c51f7.png)
+_Extruder Mount_
 
+Currently only supporting Creality bowden machines, however doesn't support the actual bowden. Must use direct drive, since one mount attaches to where the extruder mounts.
+
+PLEASE NOTE: This project is provided AS IS, and is in active development. This may not work, please make at your own risk. It should work though, nothing is guaranteed.
 
 
 
