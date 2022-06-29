@@ -19,7 +19,7 @@ Currently only supporting Creality bowden machines, however doesn't support the 
 
 PLEASE NOTE: This project is provided AS IS, and is in active development. This may not work, please make at your own risk. It should work though, nothing is guaranteed.
 
-<a href="https://oshpark.com/shared_projects/5k1olJcS"><img src="https://oshpark.com/packs/media/images/badge-5f4e3bf4bf68f72ff88bd92e0089e9cf.png" alt="Order from OSH Park"></img></a>
+<a href="https://oshpark.com/shared_projects/FF4gIcaM"><img src="https://oshpark.com/packs/media/images/badge-5f4e3bf4bf68f72ff88bd92e0089e9cf.png" alt="Order from OSH Park"></img></a>
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
