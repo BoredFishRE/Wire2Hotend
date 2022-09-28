@@ -1,5 +1,6 @@
 # Wire2Hotend
 ## WARNING! THE NEW V1.1 VERSION DOES NOT WORK WITH OLDER VERSIONS AND WILL CAUSE DAMAGE TO COMPONENTS IF USED WITH OLDER VERSIONS
+## Look at it on the PCBWay 5th PCB Design Contest! https://www.pcbway.com/project/shareproject/Wire2Hotend_c0da10a6.html
 ### For all your cable management dreams.
 
 
