@@ -10,7 +10,7 @@
   
     Mouser: https://www.mouser.com/ProductDetail/538-43025-2008
     DigiKey: https://www.digikey.com/en/products/detail/molex/0430252008/4693200
- Board Header: 2x Molex 43045-2001 (or any 43045 model that has 20 positions and it is right angle.)
+ Board Header: 2x Molex 43045-2001 (or any 43045 model that has 20 positions and it is right angle, refer to [this](https://github.com/BoredFishRE/Wire2Hotend/blob/main/MolexDiff.MD) for a guide on the differences)
  
     Mouser: https://www.mouser.com/ProductDetail/538-43045-2001
     Digikey:https://www.digikey.com/en/products/detail/molex/0430452001/3044584
